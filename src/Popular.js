@@ -34,7 +34,7 @@ function Repo(props){
       <h3>{name}</h3>
       <img style={{borderRadius: "50%", width: '120px', height: '120px'}} src={owner.avatar_url} />
     </div>
-
   )
 }
+
 export default Popular
